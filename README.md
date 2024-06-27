@@ -1,9 +1,4 @@
 # Yingchao Zhang
-<div align="center">
-  <img src="your_profile_photo_url" width="200" style="border-radius: 50%;" alt="Rendong Pi">
-  <h1>Rendong Pi (皮任东)</h1>
-  <p>A junior ENTJ researcher.</p>
-</div>
 
 
 ![Profile Picture](link_to_your_picture.jpg)
